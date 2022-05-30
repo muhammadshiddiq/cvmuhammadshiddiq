@@ -1,0 +1,68 @@
+*{
+    background-color: #212529;
+    margin-left: 50px;
+    margin-right: 50px;
+    color: aliceblue;
+    font-family: 'Roboto', sans-serif;
+}
+
+#foto_profil{
+    padding-left: 100px;
+    padding-top: ;
+}
+
+.container{
+    background-color: #343a40;
+    margin-bottom: 5px;
+}
+
+img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 5px solid #a06a18 ;
+    border-color: #ff7300;
+    margin-top: 30px;
+    margin-left: 0px
+    p
+    
+}
+body{
+    background-color: ;
+}
+
+hr{
+    margin-left: 0px;
+    background-color: #ff7300;
+    border-radius: 30%;
+}
+.profil{
+    float: right;
+    margin-left: 10px;
+    margin-top: -10px;
+    margin-right: 20px;
+    
+}
+#h3{
+    color: #ff7300;
+    padding-top: 3px;
+}
+.kemampuan{
+    float: right;
+    margin-right: 40px;
+    
+}
+.content{
+    background-color: #212529;
+    
+}
+.background{
+    background-color: #ff7300;
+    width: fit-content;
+    opacity: 80%;
+}
+h2{
+    background-color: #ff7300;
+    width: fit-content;
+    opacity: 80%;
+}
