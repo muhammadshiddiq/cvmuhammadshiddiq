@@ -1,7 +1,7 @@
 *{
     background-color: #212529;
-    margin-left: 50px;
-    margin-right: 50px;
+    margin-left: 30px;
+    margin-right: 30px;
     color: aliceblue;
     font-family: 'Roboto', sans-serif;
 }
@@ -48,10 +48,10 @@ hr{
     padding-top: 3px;
 }
 .kemampuan{
-    float: right;
+   
     margin-right: 50px;
     margin-left: 30px;
-    
+    border-color: #ff7300;
 }
 .content{
     background-color: #212529;
