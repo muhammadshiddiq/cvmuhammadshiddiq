@@ -11,13 +11,13 @@ background-color: #212529;
     margin:0px;
 }
 
-nav{
-    margin-bottom: 10px;
+.grid{
+    margin-bottom: 40px;
 }
 
 .container{
     background-color: #343a40;
-    margin: 5px;
+    margin-bottom: 30px;
 }
 
 img{
@@ -69,9 +69,12 @@ h2{
     width: fit-content;
     opacity: 80%;
 }
+.kemampuan{
+    background-color: #ff7300;
+}
 #ecer{
    font-size: 30px;
-    color: #ff7300;
+    color: whitesmoke;
     
     
 }
