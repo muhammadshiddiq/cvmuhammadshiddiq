@@ -4,11 +4,12 @@ background-color: #212529;
     margin-right: 30px;
     color: aliceblue;
     font-family: 'Roboto', sans-serif;
+    margin:0px;
 }
 .body{
     width:100%;
     min-height:200px;
-    margin:0px;
+   min-width:360px;
 }
 
 .grid{
