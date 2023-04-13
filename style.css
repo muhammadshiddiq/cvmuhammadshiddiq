@@ -9,16 +9,15 @@ background-color: #212529;
     width:100%;
     min-height:200px;
     margin:0px;
-    
 }
 
-#foto_profil{
-   
+nav{
+    margin-bottom: 10px;
 }
 
 .container{
     background-color: #343a40;
-    margin-bottom: 5px;
+    margin: 5px;
 }
 
 img{
@@ -29,7 +28,7 @@ img{
     border-color: #ff7300;
     margin-top: 30px;
     margin-left: 0px
-    p
+    
     
 }
 
