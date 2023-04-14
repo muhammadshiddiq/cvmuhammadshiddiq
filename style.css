@@ -1,0 +1,80 @@
+*{
+background-color: #212529;
+    
+    color: aliceblue;
+ 
+    margin:0px;
+}
+body{
+    background-color: #212529;
+}
+
+
+
+.container{
+    background-color: #343a40;
+    width: 50px;
+    
+}
+#foto_profil{
+    width: 160px;
+    height: 160px;
+  
+    border: 4px solid #a06a18 ;
+    
+  
+    margin-left: 0px
+    
+    
+}
+
+.icon_skill{
+    width: 20px;
+    height: 20px;
+}
+
+
+hr{
+    margin-left: 0px;
+    background-color: #ff7300;
+    border-radius: 30%;
+}
+.profil{
+   
+   
+    margin-top: -10px;
+   
+    
+}
+.pengalaman{
+    margin-top: 3px;
+}
+
+#h3{
+    color: #ff7300;
+    padding-top: 3px;
+}
+.kemampuan{
+   
+    margin-right: 50px;
+    margin-top: 30px;
+    border-color: #ff7300;
+}
+
+.background{
+    background-color: #ff7300;
+    width: fit-content;
+    opacity: 80%;
+}
+h2{
+    background-color: #ff7300;
+    width: fit-content;
+    opacity: 80%;
+}
+
+#ecer{
+   font-size: 30px;
+    color: whitesmoke;
+    
+    
+}
