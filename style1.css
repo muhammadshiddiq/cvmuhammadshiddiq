@@ -1,0 +1,44 @@
+.container-fluid{
+    background-color: #EFD595;
+}
+#header{
+    background-color:#E25E3E;
+    align-items: center;
+    height: 200px;
+    
+}
+.main{
+    margin: 30px;
+    
+}
+.icon_home{
+ width: 20px;
+ height: 20px;
+}
+.icon_pendidikan{
+    width: 30px;
+    height: 30px;
+}
+.icon_skill{
+    width: 25px;
+    height: 25px;
+}
+
+#shiddiq {
+border-radius: 50%;
+width: 130px;
+height: 130px;
+}
+@media screen and (max-width:600px){
+  
+    #header{
+        height: 500px;
+    }
+    #profil_foto{
+        margin-left: 100px;
+    }
+    #about{
+        margin-left: 10px;
+    }
+   
+}
